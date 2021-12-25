@@ -1,0 +1,79 @@
+body{
+    background-color: #cacfc3;
+   
+
+}
+.row{
+    background-color: #293644;
+    color: white;
+    height: 20px;
+}
+.fa{
+    
+    float: left;
+}
+
+.box{
+    text-align:center;
+    height: 10px;
+    margin-bottom: 20px;
+    padding-top: 17px;
+    font-size: x-large;
+    
+}
+
+.box1{
+    background-color: #2c2b2b;
+    border-radius: 15px;
+    margin-top: 145px;
+    width: 50%;
+    height: 480px;
+    margin-left: 25px;
+    
+
+}
+
+.box2{
+    background-color: #2c2b2b;
+    border-radius: 15px;
+    margin-top: 145px;
+    margin-left: 0px;
+    width: 72%;
+    height: 40px;
+    padding-left: 15px;
+    padding-top: 5px;
+    
+     
+}
+
+.card1{
+    background-color: #2c2b2b;
+    border-radius: 15px;
+    margin-top: 210px;
+    height: 65%;
+    width: 61%;
+    
+
+}
+.card2{
+    background-color: #2c2b2b;
+    border-radius: 15px;
+    margin-top: 210px;
+    height: 65%;
+    width: 61%;
+}
+.card3{
+    background-color: #2c2b2b;
+    border-radius: 15px;
+    margin-top: 210px;
+    height: 65%;
+    width: 61%;
+}
+.card4{
+    background-color: #2c2b2b;
+    border-radius: 15px;
+    margin-top: 385px;
+    width: 87.5%;
+    height: 52%;
+
+}
